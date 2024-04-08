@@ -66,13 +66,15 @@ A pretty good practice on a complex Grid and Flexbox combination layout.
 
 Learned how to combine 2 background images with their appropriate `background-repeat` and `background-position` properties.
 
+Learned how to repeat an image (the `icon-star.svg`) so as to achieve the given design.
+
 ### Continued development
 
 Futrher improve the design decisions and especially when it has to do with the choice between Grid and Flexbox.
 
 ### Useful resources
 
-- [MDN background-image](https://developer.mozilla.org/en-US/docs/Web/CSS/background-image) - This helped me implement the combination of background images given in the design.
+- [MDN background-image](https://developer.mozilla.org/en-US/docs/Web/CSS/background-image) - This helped me implement the combination of background images given in the design. Furthermore, it helped me produce the repeating `icon-star.svg` image.
 
 ## Author
 

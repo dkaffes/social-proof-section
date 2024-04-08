@@ -257,7 +257,6 @@ cards container: 5-row grid
   .section {
     grid-template-columns: 1fr 1fr;
     max-width: 70rem;
-    padding: 2rem 0 0 2rem;
     gap: 3rem;
   }
 
@@ -273,7 +272,7 @@ cards container: 5-row grid
 
   .text--description {
     font-size: 1.2rem;
-    padding: 0 1.1rem 0 0;
+    padding: 0 3.1rem 0 0;
   }
 
   .ratings-container {
